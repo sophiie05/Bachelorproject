@@ -1,0 +1,9 @@
+h5py
+jupyterlab
+matplotlib
+mne
+numpy
+pandas
+psychopy
+scipy
+wxPython
